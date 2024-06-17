@@ -1,0 +1,25 @@
+{
+    "data": [
+        {
+            "title": "B.Tech,INSTITUTE OF ENGINEERING AND MANAGEMENT (2022-2026)",
+            "link": "",
+            "image":"/images/pics/images.jpg",
+            "tags": [""],
+            "text": "Computer Science Engineering, Current CGPA(upto 3rd Semester)-9.37, Rank 6 in department"
+        },
+        {
+            "title": "12th, SALTLAKE SCHOOL(ENGLISH MEDIUM) (2020-2022)",
+            "link": "",
+            "image":"/images/pics/images.jpg",
+            "tags": [""],
+            "text": "Academic Marks-90%"
+        },
+        {
+            "title": "10th, SALTLAKE SCHOOL(ENGLISH MEDIUM) (2008-2020)",
+            "link": "",
+            "image":"/images/pics/images.jpg",
+            "tags": [""],
+            "text": "Academic Marks-94%"
+        }
+    ]
+}
